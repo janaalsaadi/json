@@ -1,0 +1,16 @@
+table , tr, th ,td{
+    border:2px solid white;  border-collapse:collapse;
+      
+    }
+    th, td{
+      text-align:center;
+      padding:8px;
+      width:150px;
+    }
+    tr{
+      background-color:
+        LightSteelBlue;
+    }
+    tr:nth-child(even){
+      background-color:lightblue;
+    }
